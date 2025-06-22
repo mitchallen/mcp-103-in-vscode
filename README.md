@@ -42,11 +42,11 @@ This project demonstrates how to use the Model Context Protocol (MCP) to access 
 
 ## Usage Examples
 
-```sh
+```prompt
 What time is it in Boston?
 ```
 
-```sh
+```prompt
 What time is it in Vegas?
 ```
 
